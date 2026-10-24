@@ -1,9 +1,3 @@
-<!-- php code with variable data assignment -->
-<?php
-include "pure_php.php"; 
-include "example2.php";
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,6 +7,11 @@ include "example2.php";
 </head>
 <body>
     <h1>Hello World</h1>
+    <!-- php code with variable data assignment -->
+    <?php
+    include "pure_php.php"; 
+    include "example2.php";
+    ?>
     <?php echo "Hello World Ngaaaaa"; ?>
 
     <h2>Username: <u><?php echo $username; ?> </u></h2>
