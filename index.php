@@ -1,14 +1,15 @@
 <!-- php code with variable data assignment -->
-<?php include "pure_php.php"; ?>
-<?php include "example2.php"; ?>
-
+<?php
+include "pure_php.php"; 
+include "example2.php";
+?>
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PHP Demon BSIT BA 3101</title>
+    <title>Form and Modal Sample</title>
 </head>
 <body>
     <h1>Hello World</h1>

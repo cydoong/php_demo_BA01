@@ -15,7 +15,7 @@
     <?php endif; ?>
 
     <form method="POST" action="" onsubmit="return validationForm()">
-        <label for="email"> Email address:</label>
+        <label for="email">Email address: </label>
         <input type="text" id="email" name="email">
         <button type="submit">Submit</button>
 
